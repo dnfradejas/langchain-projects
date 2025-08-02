@@ -1,0 +1,4 @@
+transformers
+langchain-openai
+langchain-huggingface
+langchain-core
